@@ -1,3 +1,28 @@
 body{
-    background-color: lightgrey;
+    background-color: rgb(255, 254, 254);
+    text-align: center;
+    
+}
+
+ul{
+
+    list-style:none;
+
+}
+
+.header{
+   display: grid;
+    margin: 100%;
+}
+
+div > footer{
+
+    background-color: rgb(104, 104, 255);
+     background-repeat: no-repeat;
+
+}
+
+article.complet footer {
+
+    background-color: chartreuse;
 }
